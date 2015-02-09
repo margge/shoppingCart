@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShoppingCart</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="products">Products</string>
+    <string name="buy">BUY</string>
+    <string name="counter">Counter</string>
+    <string name="my_shopping_cart">My Shopping Cart</string>
+    <string name="delete">DELETE</string>
+
+</resources>
